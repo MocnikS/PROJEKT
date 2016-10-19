@@ -1,3 +1,3 @@
 # PROJEKT
 
-To je moj prvi projekt.
+Ta repozitorij vsebuje projekt pri predmetu Programiranje 1.
